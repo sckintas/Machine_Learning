@@ -1,4 +1,4 @@
-#SEckin Kintas 23/05/2023
+#Seckin Kintas 23/05/2023
 
 import numpy as np
 import pandas as pd
